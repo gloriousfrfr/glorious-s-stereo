@@ -11,7 +11,7 @@
 
 <br>
 
-**Step 2.** Download the plugin [Here](https://downgit.github.io/#/home?url=https://github.com/edoderg/edoStereo)
+**Step 2.** Download the plugin [Here](https://github.com/gloriousfrfr/glorious-stereo/releases/download/V2/GLORIOUSstereosound.plugin.js)
 
 <br>
 
@@ -25,7 +25,7 @@
 #### Additional Information: 
 ##### If you have modified the _node_modules_ folder in the discord directory, [clean reinstall your discord client](https://www.wikihow.com/Reinstall-Discord) and follow the installing process.
 
-![Screenshot]("https://user-images.githubusercontent.com/121297549/216027823-87da765e-5003-408a-89e7-c2a7cc392704.png")
+![note](https://user-images.githubusercontent.com/121297549/216029265-3764e4dc-dda0-4855-910f-f94aef09332f.png)
 
 ## [GERMAN]
 
@@ -37,7 +37,7 @@
 
 <br>
 
-**Schritt 2.** Lade das Plugin herunter [Hier](https://downgit.github.io/#/home?url=https://github.com/edoderg/edoStereo)
+**Schritt 2.** Lade das Plugin herunter [Hier](https://github.com/gloriousfrfr/glorious-stereo/releases/download/V2/GLORIOUSstereosound.plugin.js)
 
 <br>
 
@@ -48,7 +48,7 @@
 #### Zusätzliche Information: 
 ##### Wenn du den Ordner _node_modules_ im Discord Verzeichnis geändert hast, [installier deinen Discord Client komplett neu](https://www.wikihow.com/Reinstall-Discord) und folg dem Installierungsprozess.
 
-![Screenshot]("https://user-images.githubusercontent.com/121297549/216027823-87da765e-5003-408a-89e7-c2a7cc392704.png")
+![note](https://user-images.githubusercontent.com/121297549/216029325-d0be48ae-6561-4cfb-988b-faa51d6b8244.png)
 
 # LEAVE A ⭐ THANK YOU
 
@@ -58,4 +58,4 @@
     </a>
 </p> 
 
-### Basic Code Structure inspired by @bepvte - @riolubruh <3
+### Basic Code Structure inspired by @bepvte o
