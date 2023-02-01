@@ -25,7 +25,7 @@
 #### Additional Information: 
 ##### If you have modified the _node_modules_ folder in the discord directory, [clean reinstall your discord client](https://www.wikihow.com/Reinstall-Discord) and follow the installing process.
 
-![Screenshot](note.png)
+![Screenshot]("https://user-images.githubusercontent.com/121297549/216027823-87da765e-5003-408a-89e7-c2a7cc392704.png")
 
 ## [GERMAN]
 
@@ -48,13 +48,13 @@
 #### Zusätzliche Information: 
 ##### Wenn du den Ordner _node_modules_ im Discord Verzeichnis geändert hast, [installier deinen Discord Client komplett neu](https://www.wikihow.com/Reinstall-Discord) und folg dem Installierungsprozess.
 
-![Screenshot](note.png)
+![Screenshot]("https://user-images.githubusercontent.com/121297549/216027823-87da765e-5003-408a-89e7-c2a7cc392704.png")
 
 # LEAVE A ⭐ THANK YOU
 
 <p align="left">
-    <a href="https://discord.com/users/269831113919299584">
-        <img title="edo's Discord" alt="edo's discord" src="https://discord.c99.nl/widget/theme-4/269831113919299584.png"/>
+    <a href="https://discord.com/users/970483722753290300">
+        <img title="god's discord" alt="gods's discord" src="https://discord.c99.nl/widget/theme-4/269831113919299584.png"/>
     </a>
 </p> 
 
